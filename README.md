@@ -6,7 +6,6 @@
 🍉 I’m currently learning JavaScript, TypeScript, React
 
 🌱 
-
 🌱 
 
 ✨ Tech Stack
