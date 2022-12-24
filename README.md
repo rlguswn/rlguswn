@@ -1,9 +1,8 @@
 ### 👋 Hi I'm rlguswn
 
-
 🍉 I’m interested in Web FrontEnd Development
 
-🍉 I’m currently learning JavaScript, TypeScript, React
+🍉 I’m currently learning Python, Django, MySQL
 
 🌱 
 🌱 
