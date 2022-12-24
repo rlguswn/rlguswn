@@ -6,6 +6,7 @@
 🌱 
 
 ✨ Tech Stack
-<img src="https://img.shields.io/badge/Python?style=flat-square&logo=#3776AB&logoColor=로고색"/>
+
+<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=#3776AB&logoColor=white"/>
    
 ✨ Contacts
