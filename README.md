@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/0318joo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlguswn)](https://solved.ac/rlguswn)
