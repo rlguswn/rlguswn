@@ -15,7 +15,6 @@
 
 <img src="https://img.shields.io/badge/0318joo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlguswn)](https://solved.ac/rlguswn)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlguswn)](https://solved.ac/rlguswn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlguswn)](https://github.com/rlguswn/github-readme-stats)
