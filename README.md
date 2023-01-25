@@ -1,6 +1,6 @@
 ### 👋 Hi I'm rlguswn</br>
 
-🍉 I’m interested in programming</br>
+🍉 I’m interested in Web FrontEnd Development</br>
 🍉 I’m currently learning Python, Django, MySQL</br></br>
 🌱 </br>
 🌱 </br>
