@@ -12,8 +12,7 @@
 <img src="https://img.shields.io/badge/0318joo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
 </br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlguswn&langs_count=8)](https://github.com/rlguswn/github-readme-stats)
-</br>
 
+</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlguswn&show_icons=true&theme=radical)
