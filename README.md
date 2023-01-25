@@ -12,3 +12,5 @@
    
 ✨ Contacts</br>
 <img src="https://img.shields.io/badge/0318joo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlguswn&langs_count=8)](https://github.com/rlguswn/github-readme-stats)
