@@ -10,14 +10,14 @@
 
 
 <div>
-   <img src="https://img.shields.io/badge/Java-FFA500?style=flat-square&logo=Java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
    <img src="https://img.shields.io/badge/Spring-008000?style=flat-square&logo=Spring&logoColor=white"/>
 </div>
 
    </br>
    
 ✨ Contacts</br>
-<img src="https://img.shields.io/badge/khjoo0318@gmail.com-03C75A?style=flat-square&logo=#EA4335&logoColor=white"/>
+<img src="https://img.shields.io/badge/khjoo0318@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 </br></br>
 
