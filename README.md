@@ -17,7 +17,7 @@
    </br>
    
 ✨ Contacts</br>
-<img src="https://img.shields.io/badge/0318joo@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/khjoo0318@gmail.com-03C75A?style=flat-square&logo=#EA4335&logoColor=white"/>
 
 </br></br>
 
